@@ -1,2 +1,2 @@
 def world():
-	return "world"
+	return "Hello from my python package!"
