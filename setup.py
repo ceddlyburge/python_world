@@ -6,12 +6,12 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="python_world",
     version="0.0.1",
-    author="Cedd Burge",
-    author_email="ceddlyburge@gmail.com",
+    author="Elias Martinez",
+    author_email="mselias97@gmail.com",
     description="A function that returns 'world'",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ceddlyburge/python_world",
+    url="https://github.com/elmarsan/python_world_elmarsan",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
